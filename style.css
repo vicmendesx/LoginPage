@@ -56,6 +56,12 @@ body {
   flex-direction: column;
 }
 
+.formulario p {
+    color: var(--cor01);
+    font-weight: bolder;
+    padding-bottom: 5px;
+}
+
 .input {
   
   border-radius: 20px;
