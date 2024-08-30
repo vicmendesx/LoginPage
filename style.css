@@ -184,5 +184,19 @@ body {
       bottom: -46px;
       right: -30px;
     }
-  }
+}
+
+@media (max-width: 500px) {
+    .imagem {
+        width: 84%;
+    }
+
+    .subtitulo {
+        margin-bottom: 18px;
+        font-size: 32px;
+        max-width: 400px;
+        padding: 0 14px;
+        text-align: center;
+    }
+}
   
